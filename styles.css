@@ -211,6 +211,12 @@ body {
     font-weight: 500;
     transition: all 0.3s ease;
     text-decoration: none;
+    gap: 0.5rem;
+}
+
+.btn-icon {
+    width: 20px;
+    height: 20px;
 }
 
 .btn-primary {
